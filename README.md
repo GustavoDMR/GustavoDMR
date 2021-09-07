@@ -1,4 +1,5 @@
 ### Olá, Mundo!👋
+#Atualmente aprendendo mais sobre linguagem Pyhton e SQL e seu uso na análise dedados.
 
 <!--
 **GustavoDMR/GustavoDMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
